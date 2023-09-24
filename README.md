@@ -1,4 +1,4 @@
-##Code for "Interpretable Spatial IDentity Neural Network-based Epidemic Prediction"
+## Code for "Interpretable Spatial IDentity Neural Network-based Epidemic Prediction"
 ### Abstact
 Focusing on epidemic infectious number forecasting, in this paper, we streamlines the well-known Spatio-Temporal IDentity model (STID) and retains the optional spatial identity matrix for learning the contagion relationship between regions. The famous SHapley Additive exPlanations (SHAP) method was adopted to interpret how the model predicts with multivariate sliding-window time series input data. The light model is named as Interpretable Spatial IDentity (ISID) Neural Network. The experimental results are compared with models such as Cola-GNN.
 ### Installation
