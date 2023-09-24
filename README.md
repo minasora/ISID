@@ -4,10 +4,10 @@ Focusing on epidemic infectious number forecasting, in this paper, we streamline
 ### Installation
 `pip install -r requirments.txt`
 ### Files for reproducing experimental results
--**Main_cross_validation.py**: Main program containing time series cross validation.
--**Main_DM_Test.py**: DM-test for models when prediction ahead step equals to 3.
--**ISID_SHAP.py**: SHAP analysis for ISID. By setting `return_matrix = True`, it is also able to use the T-SNE visualization.
--**Cola_GNN_SHAP.py**: SHAP analysis for Cola-GNN. 
+- **Main_cross_validation.py**: Main program containing time series cross validation.
+- **Main_DM_Test.py**: DM-test for models when prediction ahead step equals to 3.
+- **ISID_SHAP.py**: SHAP analysis for ISID. By setting `return_matrix = True`, it is also able to use the T-SNE visualization.
+- **Cola_GNN_SHAP.py**: SHAP analysis for Cola-GNN. 
 
 ### Related works
 **This study was largely inspired by the following two papers, thanks for their outstanding programs**
